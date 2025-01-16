@@ -111,10 +111,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 - 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/riteshkumarsinghcs/)
 - 🌟 Portfolio: [Your Portfolio](#)
 
----
-
-## 🙏 Acknowledgments
-
-- Special thanks to resources and tutorials that inspired this project.
-- Community support and open-source libraries.
-
