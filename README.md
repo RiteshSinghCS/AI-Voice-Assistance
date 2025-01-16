@@ -17,7 +17,7 @@ A responsive AI Voice Assistant built using **HTML**, **CSS**, and **JavaScript*
 
 [🔗 Live Demo](https://riteshsinghcs.github.io/AI-Voice-Assistance/) 
 
-![🎞️ Preview of the AI Voice Assistant](#) *(Add a screenshot or GIF of your project)*
+![🎞️ Preview of the AI Voice Assistant](https://i.postimg.cc/C5w8Ljzy/Screenshot-2025-01-17-000849.png) 
 
 ---
 
