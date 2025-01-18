@@ -11,7 +11,7 @@ btn.addEventListener("click", function () {
     const utterance = new SpeechSynthesisUtterance(text);
     window.speechSynthesis.speak(utterance);
   }
-
+  
   // Function to handle recognized commands
   function handleCommand(command) {
     if (command.includes("open youtube")) {
