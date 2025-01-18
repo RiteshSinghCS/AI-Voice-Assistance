@@ -55,7 +55,7 @@ btn.addEventListener("click", function () {
     const command = event.results[0][0].transcript.toLowerCase();
     handleCommand(command);
   };
-
+  
   // When recognition ends
   recognition.onend = () => {
     btn.innerHTML = "Start Listening";
